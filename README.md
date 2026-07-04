@@ -64,6 +64,9 @@ It demonstrates advanced SQL concepts such as joins, views, stored procedures, f
 - Indexes
 
 ---
+## 🗺️ Entity Relationship Diagram
+
+![ER Diagram](ER_Diagram.png)
 
 ## 👨‍💻 Author
 
